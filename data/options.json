@@ -1,0 +1,23 @@
+{
+  "nameApp": "Components",
+  "routes": [
+    {
+      "route": "alert",
+      "icon": "add_alert",
+      "code" : 57347,
+      "text": "Alerts"
+    },
+    {
+      "route": "avatar",
+      "icon": "accessibility",
+      "code" : 59470,
+      "text": "Avatars"
+    },
+    {
+      "route": "card",
+      "icon": "folder_open",
+      "code" : 58056,
+      "text": "Cards"
+    }
+  ]
+}
