@@ -24,6 +24,12 @@
       "icon": "donut_large",
       "code" : 59671,
       "text": "Animated Page"
+    },
+    {
+      "route": "inputs",
+      "icon": "input",
+      "code" : 59536,
+      "text": "Inputs Page"
     }
   ]
 }
