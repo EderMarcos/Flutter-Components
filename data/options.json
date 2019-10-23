@@ -30,6 +30,12 @@
       "icon": "input",
       "code" : 59536,
       "text": "Inputs Page"
+    },
+    {
+      "route": "sliders",
+      "icon": "list",
+      "code" : 59542,
+      "text": "Sliders Page"
     }
   ]
 }
