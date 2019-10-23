@@ -18,6 +18,12 @@
       "icon": "folder_open",
       "code" : 58056,
       "text": "Cards"
+    },
+    {
+      "route": "animations",
+      "icon": "donut_large",
+      "code" : 59671,
+      "text": "Animated Page"
     }
   ]
 }
