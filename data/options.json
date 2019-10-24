@@ -33,9 +33,15 @@
     },
     {
       "route": "sliders",
+      "icon": "slideshow",
+      "code" : 58395,
+      "text": "Sliders Page"
+    },
+    {
+      "route": "listview",
       "icon": "list",
       "code" : 59542,
-      "text": "Sliders Page"
+      "text": "List View Page"
     }
   ]
 }

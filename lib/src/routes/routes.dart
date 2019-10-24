@@ -4,6 +4,7 @@ import 'package:components/src/pages/avatar_page.dart';
 import 'package:components/src/pages/card_page.dart';
 import 'package:components/src/pages/home_page.dart';
 import 'package:components/src/pages/input_page.dart';
+import 'package:components/src/pages/listview_page.dart';
 import 'package:components/src/pages/slider_page.dart';
 import 'package:flutter/material.dart';
 
@@ -16,5 +17,6 @@ Map<String, WidgetBuilder> getApplicationRoutes() {
     'animations': (BuildContext context) => AnimatedPage(),
 		'inputs': (BuildContext context) => InputPage(),
 		'sliders': (BuildContext context) => SliderPage(),
+		'listview': (BuildContext context) => ListViewPage(),
   };
 }
